@@ -49,8 +49,6 @@ These extensions are part of my daily workflow, helping me streamline my develop
 
 ---
 
-### Footer
-
 ![faydonK](https://faydonk.fr/media//img/pfp_faydonk.png)
 
 *Made with ❤️ by faydonK*
