@@ -49,6 +49,6 @@ These extensions are part of my daily workflow, helping me streamline my develop
 
 ---
 
-<img src="https://faydonk.fr/media/img/L-modified.png" alt="GitHub Profile Picture" width="150">
+<img src="https://faydonk.fr/media/img/pfp-github.png" alt="GitHub Profile Picture" width="150">
 
 *Made with ❤️ by faydonK*
